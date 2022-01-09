@@ -36,3 +36,7 @@ is just some random text for now. The app is also deployed using Heroku and the 
 - Creating Packages
 - Create, Update and Delete Todos
 - Deployment on Heroku
+
+
+### *LINK TO APP:*
+[Link to app](https://my-todo-aj.herokuapp.com/)
