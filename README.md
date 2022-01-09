@@ -1,6 +1,5 @@
 # Flask---Todo-Web-App
 
-# Flask-Blog-App
 
 ### *OVERVIEW:*:cowboy_hat_face:	
 
